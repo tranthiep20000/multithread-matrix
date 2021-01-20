@@ -1,0 +1,8 @@
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\bin\Release\Thread_OS.exe.config
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\bin\Release\Thread_OS.exe
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\bin\Release\Thread_OS.pdb
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Release\Thread_OS.frmMain.resources
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Release\Thread_OS.Properties.Resources.resources
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Release\Thread_OS.csproj.GenerateResource.Cache
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Release\Thread_OS.exe
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Release\Thread_OS.pdb

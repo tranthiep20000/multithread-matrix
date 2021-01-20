@@ -1,0 +1,38 @@
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Thread_OS\Thread_OS\bin\Debug\Thread_OS.exe.config
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Thread_OS\Thread_OS\bin\Debug\Thread_OS.exe
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Thread_OS\Thread_OS\bin\Debug\Thread_OS.pdb
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Thread_OS\Thread_OS\obj\Debug\Thread_OS.Form1.resources
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Thread_OS\Thread_OS\obj\Debug\Thread_OS.Properties.Resources.resources
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Thread_OS\Thread_OS\obj\Debug\Thread_OS.csproj.GenerateResource.Cache
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Thread_OS\Thread_OS\obj\Debug\Thread_OS.exe
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Thread_OS\Thread_OS\obj\Debug\Thread_OS.pdb
+E:\LTHDT(Cpp)\Visual Studio 2013\Projects\Thread_OS\Thread_OS\obj\Debug\Thread_OS.csprojResolveAssemblyReference.cache
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\bin\Debug\Thread_OS.exe.config
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Debug\Thread_OS.exe
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Debug\Thread_OS.pdb
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\bin\Debug\Thread_OS.exe
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\bin\Debug\Thread_OS.pdb
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Debug\Thread_OS.csprojResolveAssemblyReference.cache
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Debug\Thread_OS.Properties.Resources.resources
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Debug\Thread_OS.csproj.GenerateResource.Cache
+C:\Users\PhucND\Downloads\Video\Thread_OS\Thread_OS\Thread_OS\obj\Debug\Thread_OS.frmMain.resources
+C:\Users\computer\Desktop\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\bin\Debug\Thread_OS.exe.config
+C:\Users\computer\Desktop\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\bin\Debug\Thread_OS.exe
+C:\Users\computer\Desktop\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\bin\Debug\Thread_OS.pdb
+C:\Users\computer\Desktop\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.csprojAssemblyReference.cache
+C:\Users\computer\Desktop\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.frmMain.resources
+C:\Users\computer\Desktop\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.Properties.Resources.resources
+C:\Users\computer\Desktop\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.csproj.GenerateResource.cache
+C:\Users\computer\Desktop\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.exe
+C:\Users\computer\Desktop\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.pdb
+C:\Users\computer\Desktop\HKI(2020-2021)\Lý thuyết hệ điều hành\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\bin\Debug\Thread_OS.exe.config
+C:\Users\computer\Desktop\HKI(2020-2021)\Lý thuyết hệ điều hành\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\bin\Debug\Thread_OS.exe
+C:\Users\computer\Desktop\HKI(2020-2021)\Lý thuyết hệ điều hành\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\bin\Debug\Thread_OS.pdb
+C:\Users\computer\Desktop\HKI(2020-2021)\Lý thuyết hệ điều hành\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.csprojAssemblyReference.cache
+C:\Users\computer\Desktop\HKI(2020-2021)\Lý thuyết hệ điều hành\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.frmMain.resources
+C:\Users\computer\Desktop\HKI(2020-2021)\Lý thuyết hệ điều hành\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.Properties.Resources.resources
+C:\Users\computer\Desktop\HKI(2020-2021)\Lý thuyết hệ điều hành\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.csproj.GenerateResource.cache
+C:\Users\computer\Desktop\HKI(2020-2021)\Lý thuyết hệ điều hành\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\HKI(2020-2021)\Lý thuyết hệ điều hành\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.exe
+C:\Users\computer\Desktop\HKI(2020-2021)\Lý thuyết hệ điều hành\B14-TTThiep\CodeSource\[Code]Thread_OS\Thread_OS\obj\Debug\Thread_OS.pdb
