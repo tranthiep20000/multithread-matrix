@@ -17,6 +17,7 @@ namespace Thread_OS
             Application.EnableVisualStyles(); 
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmMain());  
+            // modul del
         }
     }
 }
